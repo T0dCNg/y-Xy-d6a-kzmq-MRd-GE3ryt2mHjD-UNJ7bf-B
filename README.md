@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OGB123
+- 👋 Hi, I’m @ОГБ
 - 👀 I’m interested in coding and fixing texh
 - 🌱 I’m currently learning css and js
 
